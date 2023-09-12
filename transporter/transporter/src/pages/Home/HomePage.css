@@ -1,0 +1,21 @@
+.main-window {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(130, 130, 130);
+}
+
+.main-window {
+  height: 100%;
+  width: 100vw;
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+}
+
+
+.heading-text {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  font-size: xx-large;
+}

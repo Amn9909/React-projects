@@ -1,0 +1,26 @@
+/* ServicePage.css */
+
+.service-page-base {
+    text-align: center;
+    padding: 20px;
+    background-color: #ccc;
+  }
+  
+  .title {
+    margin-bottom: 20px;
+  }
+  
+  .cards {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to a new line */
+    justify-content: space-between; /* Distribute cards evenly */
+    gap: 20px;
+  }
+  
+  .card {
+    flex: 1 0 calc(25% - 20px); /* Maximum of 4 cards in a row */
+    background-color: #979797;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  

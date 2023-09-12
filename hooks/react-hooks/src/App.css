@@ -1,0 +1,28 @@
+:root{
+  padding: 0;
+  margin: 0;
+}
+
+/* ServicePage.css */
+
+.base {
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  width: 200px; /* Set the width of each card */
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}

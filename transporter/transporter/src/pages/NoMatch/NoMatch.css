@@ -1,0 +1,18 @@
+.wrong-gateway-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .animation-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .animation-container img {
+    width: 600px;
+    height: 600px;
+    margin: 10px;
+    border-radius: 50%;
+    align-items: center;
+  }

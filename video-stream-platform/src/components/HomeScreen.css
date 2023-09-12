@@ -1,0 +1,13 @@
+.main-window{
+    background-color: rgb(233, 233, 233);
+    border: solid black;
+}
+
+.video-window{ 
+    padding: 2%;
+    margin: 2%;
+    background-color: aqua;
+    height: 80%;
+    width: 60%;
+    border: solid black;
+}

@@ -1,0 +1,19 @@
+.images{
+    height: 10px;
+    width: 10px;
+}
+
+.main-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.para-text{
+    background-color: aqua;
+    align-items: center;
+}
+
+.main-heading{
+    align-self: center;
+}

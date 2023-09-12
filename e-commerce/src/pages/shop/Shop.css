@@ -1,0 +1,49 @@
+.main-product {
+  display: inline-block; /* Display the cards in a row */
+  vertical-align: top; /* Align the cards to the top */
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-right: 10px;
+}
+
+.main-product img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.product-description {
+  text-align: center;
+}
+
+.product-description p {
+  margin: 0;
+}
+
+.product-description b {
+  font-weight: bold;
+}
+
+.product-description p:last-child {
+  margin-top: 5px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 12%;
+}
+
+.shop-heading {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.shop{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
